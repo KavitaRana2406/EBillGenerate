@@ -1,0 +1,13 @@
+Invalid Consumer Number 1011878999
+List having bill amount :
+[
+ElectricityBill [consumerNumber=0101678956, consumerName=Kavita Rana, consumerAddress=Block A Haldwani, unitsConsumed=100, billAmount=0.0], 
+ElectricityBill [consumerNumber=0911012345, consumerName=Hansa Kharayat, consumerAddress=Block C Haldwani, unitsConsumed=120, billAmount=30.0], 
+ElectricityBill [consumerNumber=0209067888, consumerName=Vikalp Bhandari, consumerAddress=Block A Haldwani, unitsConsumed=650, billAmount=1625.0], 
+ElectricityBill [consumerNumber=0128999567, consumerName=Gaurav Negi, consumerAddress=Block B Haldwani, unitsConsumed=500, billAmount=1000.0]]
+
+Table Data Below :
+Electricity Bill Detail : 0101678956, Kavita Rana, Block A Haldwani ,100, 0.0
+Electricity Bill Detail : 0128999567, Gaurav Negi, Block B Haldwani ,500, 1000.0
+Electricity Bill Detail : 0209067888, Vikalp Bhandari, Block A Haldwani ,650, 1625.0
+Electricity Bill Detail : 0911012345, Hansa Kharayat, Block C Haldwani ,120, 30.0

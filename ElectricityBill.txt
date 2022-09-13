@@ -1,0 +1,5 @@
+0101678956,Kavita Rana,Block A Haldwani,100
+1011878999,Nidhi Jadhav,Block B Haldwani,650
+0911012345,Hansa Kharayat,Block C Haldwani,120
+0209067888,Vikalp Bhandari,Block A Haldwani,650
+0128999567,Gaurav Negi,Block B Haldwani,500
